@@ -1,16 +1,10 @@
-<h1>个人简介</h3>
-
-<blockquote>
-只要我们为人民的利益坚持好的，为人民的利益改正错的，我们这个队伍就一定会兴旺起来。
-</blockquote>
+<img alt="" src="https://eastspire.github.io/eastspire/metrics.svg">
 
 <img alt="" src="https://count.getloli.com/get/@:eastspire?theme=rule34">
 
 <img alt="" src="https://github-profile-trophy.vercel.app/?username=eastspire">
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=eastspire&show_icons=true&hide_title=false&include_all_commits=true&count_private=true">
-
-<img alt="" src="https://eastspire.github.io/eastspire/metrics.svg">
 
 <h3>社交主页</h3>
 
