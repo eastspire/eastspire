@@ -17,6 +17,7 @@ jobs:
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          output_action: none
           template: classic
           base: header, activity, community, repositories, metadata
           config_display: large
