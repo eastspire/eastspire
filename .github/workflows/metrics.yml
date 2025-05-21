@@ -39,10 +39,8 @@ jobs:
           plugin_topics_limit: 15
           plugin_topics_mode: starred
           plugin_topics_sort: stars
-          plugin_people: yes
-          plugin_people_limit: 36
-          plugin_people_types: followers, following, followed, sponsoring, members, sponsored, sponsors, contributors, stargazers, watchers, thanks
-          plugin_people_sort: yes
+          plugin_discussions_categories: yes
+          plugin_discussions_categories_limit: 0
           plugin_contributors: yes
           plugin_contributors_contributions: yes
           plugin_contributors_sections: contributors, categories
