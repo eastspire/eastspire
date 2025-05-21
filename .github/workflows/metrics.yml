@@ -13,7 +13,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - uses: eastspire/metrics@master
+      - uses: eastspire/metrics@without-footer
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
@@ -72,7 +72,7 @@ jobs:
           plugin_habits_facts: yes
           plugin_notable: yes
           plugin_notable_from: all
-      - uses: actions/upload-pages-artifact@v4
+      - uses: actions/upload-pages-artifact@v3
         with:
           path: /metrics_renders
       - uses: actions/deploy-pages@v4
