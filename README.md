@@ -56,8 +56,6 @@
 
 <img alt="" src="https://eastspire.github.io/eastspire/metrics.svg">
 
-<img  src="https://count.getloli.com/get/@:eastspire?theme=rule34">
-
-<img  src="https://github-profile-trophy.vercel.app/?username=eastspire">
+<img alt="" src="https://count.getloli.com/get/@:eastspire?theme=rule34">
 
 <img alt="" src="https://github-readme-stats.vercel.app/api?username=eastspire&show_icons=true&hide_title=false&include_all_commits=true&count_private=true">
