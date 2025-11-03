@@ -1,4 +1,4 @@
-<h3>社交</h3>
+<h3>社交主页</h3>
 
 <a target="_blank" href="https://x.com/ltpp_universe" style="text-decoration:none"><code>X</code></a>
 <a target="_blank" href="https://crates.io/users/eastspire" style="text-decoration:none"><code>Crates.io</code></a>
