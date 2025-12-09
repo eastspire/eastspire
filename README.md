@@ -62,20 +62,4 @@
 
 <h3>赞赏</h3>
 
-<blockquote>如果你觉得项目对你有所帮助，欢迎捐赠。</blockquote>
-
-<h4>微信支付</h4>
-
-<img src="https://docs.ltpp.vip/img/wechatpay.png" width="200">
-
-<h4>支付宝支付</h4>
-
-<img src="https://docs.ltpp.vip/img/alipay.png" width="200">
-
-<h4>虚拟货币支付</h4>
-
-| 虚拟货币 | 虚拟货币地址                               |
-| -------- | ------------------------------------------ |
-| BTC      | 3QndxCJTf3mEniTgyRRQ1jcNTJajm9qSCy         |
-| ETH      | 0x8EB3794f67897ED397584d3a1248a79e0B8e97A6 |
-| BSC      | 0x8EB3794f67897ED397584d3a1248a79e0B8e97A6 |
+<a href="https://docs.ltpp.vip/appreciate.html" target="_blank">如果你觉得项目对你有所帮助，欢迎点击进行赞赏。</a>
