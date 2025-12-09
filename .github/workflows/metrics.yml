@@ -13,7 +13,7 @@ jobs:
       pages: write
       id-token: write
     steps:
-      - uses: lowlighter/metrics@master
+      - uses: eastspire/metrics@without-footer
         with:
           filename: metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
