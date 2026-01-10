@@ -1,0 +1,47 @@
+name: Time
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+
+env:
+  CARGO_TERM_COLOR: always
+
+jobs:
+  update_dataset:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+
+      - name: Configure git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: Update README.md with current UTC time
+        run: |
+          CURRENT_TIME=$(date -u +"%Y-%m-%d %H:%M:%S")
+          if [ ! -f README.md ]; then
+            echo "<!--${CURRENT_TIME}-->" > README.md
+          else
+            sed -i "1s/.*/<!--${CURRENT_TIME}-->/" README.md
+          fi
+          echo "✅ Updated README.md with time: ${CURRENT_TIME}"
+      - name: Amend latest commit and force push
+        run: |
+          set -e
+          git add README.md
+          BRANCH=$(git branch --show-current)
+          git commit --amend --no-edit
+          git push --force origin HEAD:$BRANCH
+          echo "✅ Amended latest commit and force-pushed to $BRANCH"
