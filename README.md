@@ -62,4 +62,6 @@
 
 <h3>赞赏</h3>
 
-<a href="https://docs.ltpp.vip/appreciate.html" target="_blank">如果你觉得项目对你有所帮助，欢迎点击进行赞赏。</a>
+<p>衷心感谢您的支持！如果本项目对您有所帮助，欢迎点击下方链接表达您的赞赏：</p>
+<p><a href="https://docs.ltpp.vip/appreciate.html" target="_blank">点击这里赞赏</a></p>
+<p><em>非常感谢您的慷慨支持！</em></p>
