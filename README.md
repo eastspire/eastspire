@@ -48,7 +48,7 @@
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;align-items: flex-start;">
 
-<a target="_blank" href="https://docs.ltpp.vip/hyperlane/" style="display: flex;align-items: center;text-decoration: none;"><img style="border: 2px solid #818b981f;border-radius: 20%;" height="22" alt="hyperlane" src="https://img.shields.io/badge/hyperlane-blue?style=for-the-badge"></a>
+<a target="_blank" href="https://ltpp.vip/github/pages/eastspire/docs-pages/img/hyperlane.png" style="display: flex;align-items: center;text-decoration: none;"><img style="border: 2px solid #818b981f;border-radius: 20%;" height="22" alt="hyperlane" src="https://img.shields.io/badge/hyperlane-blue?style=for-the-badge"></a>
 <a target="_blank" href="https://www.workerman.net/doc/webman/" style="display: flex;align-items: center;text-decoration: none;"><img style="border: 2px solid #818b981f;border-radius: 20%;" height="22" alt="webman" src="https://img.shields.io/badge/webman-blue?style=for-the-badge"></a>
 <a target="_blank" href="https://www.kancloud.cn/manual/thinkphp6_0" style="display: flex;align-items: center;text-decoration: none;"><img style="border: 2px solid #818b981f;border-radius: 20%;" height="22" alt="thinkphp" src="https://img.shields.io/badge/thinkphp-green?style=for-the-badge"></a>
 
@@ -63,5 +63,5 @@
 <h3>赞赏</h3>
 
 <p>衷心感谢您的支持！如果本项目对您有所帮助，欢迎点击下方链接表达您的赞赏：</p>
-<p><a href="https://docs.ltpp.vip/appreciate.html" target="_blank">点击这里赞赏</a></p>
+<p><a href="https://ltpp.vip/github/pages/eastspire/docs-pages/appreciate.html" target="_blank">点击这里赞赏</a></p>
 <p><em>非常感谢您的慷慨支持！</em></p>
