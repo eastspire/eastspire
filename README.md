@@ -3,10 +3,10 @@
 
 <a target="_blank" href="https://crates.io/users/eastspire" style="text-decoration:none"><code>Crates.io</code></a>
 
-<a href="https://ghfind.com/u/eastspire?ref=badge">
+<a href="https://ghfind.com/u/eastspire?ref=badge" target="_blank">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/eastspire?theme=dark&lang=zh" />
-    <img alt="" src="https://ghfind.com/api/card/mini/eastspire?theme=light&lang=zh" alt="GitHub Roast 评分卡" width="440" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/eastspire?theme=dark" />
+    <img src="https://ghfind.com/api/card/mini/eastspire?theme=light" alt="GitHub Roast 评分卡" width="440" />
   </picture>
 </a>
 
