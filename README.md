@@ -1,18 +1,18 @@
-<!--2026-09-26 19:07:48-->
-<h3>社交主页</h3>
+<!--2026-09-29 20:36:11-->
+<h3>Social Profiles</h3>
 
 <a target="_blank" href="https://crates.io/users/eastspire" style="text-decoration:none"><code>Crates.io</code></a>
 
 <a href="https://ghfind.com/u/eastspire?ref=badge" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/eastspire?theme=dark" />
-    <img src="https://ghfind.com/api/card/mini/eastspire?theme=light" alt="GitHub Roast 评分卡" width="440" />
+    <img src="https://ghfind.com/api/card/mini/eastspire?theme=light" alt="GitHub Roast scorecard" width="440" />
   </picture>
 </a>
 
-<h3>技术栈</h3>
+<h3>Tech Stack</h3>
 
-<h4>编程语言</h4>
+<h4>Languages</h4>
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;align-items: flex-start;">
 
@@ -25,7 +25,7 @@
 
 </div>
 
-<h4>前端框架</h4>
+<h4>Frontend Frameworks</h4>
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;align-items: flex-start;">
 
@@ -39,7 +39,7 @@
 
 </div>
 
-<h4>前端工具</h4>
+<h4>Frontend Tooling</h4>
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;align-items: flex-start;">
 
@@ -52,7 +52,7 @@
 
 </div>
 
-<h4>后端框架</h4>
+<h4>Backend Frameworks</h4>
 
 <div style="display: flex;flex-wrap: wrap;gap: 16px;align-items: flex-start;">
 
