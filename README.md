@@ -71,5 +71,6 @@
 <h3>赞赏</h3>
 
 <p>衷心感谢您的支持！如果本项目对您有所帮助，欢迎点击下方链接表达您的赞赏：</p>
-<p><a href="https://ltpp.vip/github/pages/docs-pages/pages/appreciate.html" target="_blank">点击这里赞赏</a></p>
+<p><a href="https://donate.stripe.com/fZu6oHbYj6uWg9zcOQ2cg04" target="_blank">通过 Stripe 赞赏</a></p>
+<p><em>同时在 <a href="https://github.com/docs-pages/docs" target="_blank">docs-pages/docs</a> 首页展示。</em></p>
 <p><em>非常感谢您的慷慨支持！</em></p>
