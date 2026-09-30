@@ -1,4 +1,4 @@
-<!--2026-09-29 20:36:11-->
+<!--2026-10-08 21:11:49-->
 <h3>Social Profiles</h3>
 
 <a target="_blank" href="https://crates.io/users/eastspire" style="text-decoration:none"><code>Crates.io</code></a>
@@ -71,5 +71,5 @@
 <h3>Sponsor</h3>
 
 <p>Thank you for your support! If this project has been helpful, please consider sponsoring via the link below:</p>
-<p><a href="https://donate.stripe.com/fZu6oHbYj6uWg9zcOQ2cg04" target="_blank">Sponsor via Stripe</a></p>
+<p><a href="https://buy.stripe.com/cNifZh3rN4mO1eFaGI2cg08" target="_blank">Sponsor via Stripe</a></p>
 <p><em>Your generosity is greatly appreciated!</em></p>
